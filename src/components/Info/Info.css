@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.margin-top {
+    margin-top: 50px;
+}
+
+.col-lg-3 {
+    width: 50%;
+    float: left;
+}
+
+.col-xs-12,
+.col-sm-6,
+.col-md-6,
+.col-lg-3 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.col-md-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+    width: 100%;
+    height: 100%;
+}
+
+.warranties-container {
+    padding: 60px 40px;
+    background: #FFF;
+    margin-top: 50px;
+    /* margin-bottom: 50px; */
+    /* padding-bottom: 50px; */
+    position: relative;
+    /* bottom: 320px; */
+}
+
+.container {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    /* width: 970px; */
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: 200px;
+    /* margin-top: 200px; */
+    /* margin-bottom: 50px; */
+    /* padding-bottom: 50px; */
+    height: 430px;
+}
+
+.row-2 {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.product-head {
+    /* z-index: 0; */
+    margin: 0;
+    font-size: 26px;
+    color: #000;
+    box-shadow: none;
+    display: block;
+    position: relative;
+    /* margin-bottom: 0; */
+    /* font-weight: 700; */
+    margin-bottom: 35px;
+    font-family: 'Roboto 500', sans-serif;
+    /* display: flex; */
+}
+
+.benefit_icon {
+    position: absolute;
+    left: 10px;
+    top: 0px;
+    background: #fff;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    line-height: 71px;
+    text-align: center;
+}
+
+.benefit_icon.warranty {
+    background: #f9f9f9;
+    position: static;
+}
+
+.icon {
+    position: relative;
+    width: 38px;
+    height: 38px;
+    top: 15px;
+    left: 2px;
+    /* right: 8px; */
+}
+
+.benefit_title.warranty {
+    font-size: 15px;
+    font-family: "Museo Sans Cyrl 500", sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: #242424;
+}
+
+.benefit_description.warranty {
+    font-size: 13px;
+    line-height: 1.5;
+    font-family: "Museo Sans Cyrl 300", sans-serif;
+}
+
+.btn-main {
+    background: #feed00;
+    border-radius: 3px;
+    padding: 15px 50px;
+    font-size: 16px;
+    color: #000;
+    transition: all .4s ease;
+    position: relative;
+    text-shadow: none;
+    font-family: "Museo Sans Cyrl 700", sans-serif;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 3px 20px 1px #feed008a;
+    text-align: center;
+    width: 700px;
+    /* margin-bottom: 70px; */
+}
+
+.text-center {
+    text-align: center;
+}

@@ -1,0 +1,51 @@
+.animated-block {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    bottom: 300px;
+}
+
+.background-video {
+    position: relative;
+    /* bottom: 500px; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.darken {
+    background-color: rgba(0, 0, 0, 0.218);
+}
+
+.header-slide {
+    background-color: #3333337e;
+    color: #fff;
+    padding: 20px;
+    position: relative;
+    bottom: 500px;
+    display: flex;
+    /* width: 40%; */
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+}
+
+.play-button {
+    /* background-color: #f4433688; */
+    position: relative;
+    color: #ff0000;
+    padding: 10px 20px;
+    border: none;
+    font-size: 66px;
+    cursor: pointer;
+    left: 570px;
+    width: 30%;
+    bottom: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

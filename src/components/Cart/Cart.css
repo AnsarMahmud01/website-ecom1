@@ -1,0 +1,23 @@
+.cart {
+    /* display: flex;
+    flex-direction: column; */
+    background-color: #cfffb3;
+    padding: 55px;
+    position: sticky;
+    top: 0px;
+    /* right: 1227px; */
+    /* width: 550px */
+}
+
+.btn-clear-cart {
+    width: 95%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    background: #fff;
+    border-radius: 4px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
