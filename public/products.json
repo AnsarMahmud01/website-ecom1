@@ -10,7 +10,8 @@
         "ratingsCount": 3725,
         "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1595440086-priority-600-1595439979.jpg?crop=1.00xw:0.922xh;0,0.0782xh&resize=980:*",
         "shipping": 1,
-        "quantity": 0
+        "quantity": 0,
+        "discount": "Успей на скидку -25%"
     },
     {
         "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
@@ -23,7 +24,8 @@
         "ratingsCount": 4355,
         "img": "https://www.sefiles.net/images/library/large/kona-coco-339957-1-11-1.jpg",
         "shipping": 14,
-        "quantity": 0
+        "quantity": 0,
+        "new2": "NEW"
     },
     {
         "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
@@ -76,5 +78,84 @@
         "img": "https://cdn.mtbdatabase.com/wp-content/uploads/2021/12/22072909/2021-KTM-Ultra-Ride-29.jpg.webp",
         "shipping": 19,
         "quantity": 0
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "category": "Men's Sneaker",
+        "name": "KAPTIR 2.0 ",
+        "seller": "Франция",
+        "price": 138,
+        "stock": 19,
+        "ratings": 3,
+        "ratingsCount": 4372,
+        "img": "https://contents.mediadecathlon.com/p1849663/k$373eb847f1126eadd7e8db5d161ebe82/1849663.jpg?format=auto&quality=70&f=800x800",
+        "shipping": 19,
+        "quantity": 0
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "category": "Men's Sneaker",
+        "name": "KAPTIR 2.0 ",
+        "seller": "Франция",
+        "price": 138,
+        "stock": 19,
+        "ratings": 3,
+        "ratingsCount": 4372,
+        "img": "https://object.pscloud.io/cms/cms/Photo/img_0_588_293_0_1.jpg",
+        "shipping": 19,
+        "quantity": 0
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "category": "Men's Sneaker",
+        "name": "KAPTIR 2.0 ",
+        "seller": "Франция",
+        "price": 138,
+        "stock": 19,
+        "ratings": 3,
+        "ratingsCount": 4372,
+        "img": "https://assets.specialized.com/i/specialized/95122-70_TERO-30-OAKGRNMET-SMK_HERO?bg=rgb(241,241,241)&w=2500&h=1406&fmt=auto",
+        "shipping": 19,
+        "quantity": 0
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "category": "Men's Sneaker",
+        "name": "KAPTIR 2.0 ",
+        "seller": "Франция",
+        "price": 138,
+        "stock": 19,
+        "ratings": 3,
+        "ratingsCount": 4372,
+        "img": "https://assets.specialized.com/i/specialized/91822-76_ROCKHOPPER-29-TARBLK-WHT_HERO?bg=rgb(241,241,241)&w=2500&h=1406&fmt=auto",
+        "shipping": 19,
+        "quantity": 0
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "category": "Men's Sneaker",
+        "name": "KAPTIR 2.0 ",
+        "seller": "Франция",
+        "price": 138,
+        "stock": 19,
+        "ratings": 3,
+        "ratingsCount": 4372,
+        "img": "https://assets.specialized.com/i/specialized/93722-73_STATUS-160-SMK-ARCTBLU_HERO?bg=rgb(241,241,241)&w=2500&h=1406&fmt=auto",
+        "shipping": 19,
+        "quantity": 0
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "category": "Men's Sneaker",
+        "name": "KAPTIR 2.0 ",
+        "seller": "Франция",
+        "price": 138,
+        "stock": 19,
+        "ratings": 3,
+        "ratingsCount": 4372,
+        "img": "https://assets.specialized.com/i/specialized/95122-71_TERO-30-WHTMTN-GUN_HERO",
+        "shipping": 19,
+        "quantity": 0,
+        "discount": "Успей на скидку -25%"
     }
 ]

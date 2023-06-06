@@ -114,6 +114,13 @@ function Header() {
                                         <Link to="/mountain">Тау</Link>
                                     </li>
                                     <li>
+                                    <Link to="/accessories">Аксессуарлар</Link>
+                                </li>
+                                    <li>
+                                    <a href="https://resplendent-clafoutis-598529.netlify.app">Қосалқы бөлшектер</a>
+                                </li>
+
+                                    <li>
                                         <Link to="/login">Тіркеу</Link>
                                     </li>
                                 </ul>

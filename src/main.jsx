@@ -15,6 +15,7 @@ import Mountain from './components/Mountain/Mountain';
 import Login from './components/Login/RegistrationForm';
 import cartProductsLoader from './loaders/cartProductsLoader';
 import Checkout from './components/Checkout/Checkout';
+import Access from './components/Accessories/Access';
 
 const router = createBrowserRouter([
   {
@@ -38,6 +39,11 @@ const router = createBrowserRouter([
         path: 'mountain',
         element: <Mountain></Mountain>
       },
+      {
+        path: 'accessories',
+        element: <Access></Access>
+      },
+
       {
         path: 'checkout',
         element: <Checkout></Checkout>

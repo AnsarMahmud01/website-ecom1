@@ -5,7 +5,7 @@ import './Product.css';
 
 const Product = (props) => {
 
-    const { img, name, seller, ratings, price } = props.product;
+    const { img, name, seller, ratings, price, discount, new2} = props.product;
     const handleAddToCart = props.handleAddToCart;
 
 
@@ -17,6 +17,9 @@ const Product = (props) => {
                 <p>Бағасы: ${price}</p>
                 <p>Өндіруші: {seller}</p>
                 <p>Рейтинг: {ratings} Жұлдыздар</p>
+                <h3 style={{color: "red", paddingTop: "15px"}}> {discount}</h3>
+                <h3 style={{float: 'right', marginRight:"20px", color: 'darkgreen', position:"relative", bottom:"470px"}}>{new2}</h3>
+                {/* <h3>{new}</h3> */}
             </div>
             <button onClick={() => handleAddToCart(props.product)} className='btn-cart'>
                 Себетке қосу

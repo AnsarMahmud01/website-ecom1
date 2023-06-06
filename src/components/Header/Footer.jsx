@@ -76,6 +76,9 @@ function Footer() {
                                     <Link to="/mountain">Тау</Link>
                                 </li>
                                 <li>
+                                    <Link to="/accessories">акс</Link>
+                                </li>
+                                <li>
                                     <Link to="/login">Тіркеу</Link>
                                 </li>
                             </ul>
