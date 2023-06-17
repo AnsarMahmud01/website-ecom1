@@ -37,7 +37,7 @@ const Orders = () => {
                     handleClearCart={handleClearCart}
                 >
                     <Link className='proceed-link' to="/checkout">
-                        <button className='btn-proceed'>Тапсырысты қарау</button>
+                        <button className='btn-proceed'>Сатып алу</button>
                     </Link>
                 </Cart>
             </div>
